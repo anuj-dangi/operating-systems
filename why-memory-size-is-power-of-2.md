@@ -1,10 +1,10 @@
-# Why is memory size a multiple of 2?
+# Why is memory size a power of 2?
 
-Memory sizes are in multiples of two because computers operate on a **binary system**. All data and memory addresses are represented by bits, which can only be a 0 or a 1. This base-2 nature makes powers of two the most efficient and logical way to build and manage memory.
+Memory sizes are in power of 2 because computers operate on a **binary system**. All data and memory addresses are represented by bits, which can only be a 0 or a 1. This base-2 nature makes powers of two the most efficient and logical way to build and manage memory.
 
 ---
 
-## The Role of Binary Addressing 💻
+## The Role of Binary Addressing
 
 The core reason lies in **binary addressing**. Each memory location needs a unique address, and these addresses are binary numbers. The number of bits available for an address determines the maximum number of memory locations that can be accessed.
 
