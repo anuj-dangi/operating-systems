@@ -12,6 +12,6 @@ The relationship is exponential: with '$n$' address lines, a computer can access
 
 * **1 address line** can access $2^1$ = 2 memory locations.
 * **2 address lines** can access $2^2$ = 4 memory locations (addresses: 00, 01, 10, 11).
-* **33 address lines** are required to access $2^{33}$ bytes, which equals 8 gigabytes (GB).
+* **33 address lines** are required to access $2^{33}$ bytes, which equals 8 gigabytes(GB).
 
 Designing hardware (CPUs, memory controllers) around powers of two is far simpler and more efficient. A memory module with a capacity that isn't a power of two would lead to wasted addressing space and more complex, slower hardware. This fundamental design principle has become a universal standard, leading to the familiar memory sizes we see today (e.g., 4GB, 8GB, 16GB, 32GB).
