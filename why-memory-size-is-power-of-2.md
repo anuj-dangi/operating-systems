@@ -1,4 +1,4 @@
-![2GB Memory with 31-bit Address Bus](./memory-size.png)
+<img src="./memory-size.png" width="300" height="200" alt="Memory size with 31-bit address bus">
 
 # Why is memory size a power of 2?
 
