@@ -1,3 +1,5 @@
+![2GB Memory with 31-bit Address Bus](./memory-size.png)
+
 # Why is memory size a power of 2?
 
 Memory sizes are in power of two because computers operate on a **binary system**. All data and memory addresses are represented by bits, which can only be a 0 or a 1. This base-2 nature makes powers of two the most efficient and logical way to build and manage memory.
